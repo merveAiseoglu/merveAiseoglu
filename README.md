@@ -36,9 +36,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merveAiseoglu&show_icons=true&theme=radical&count_private=true" height="180" alt="merveAiseoglu's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveAiseoglu&layout=compact&theme=radical&hide=css,html" height="180" alt="merveAiseoglu's Top Languages" />
+
+[![Merve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merveAiseoglu&show_icons=true&theme=radical&count_private=true)](https://github.com/merveAiseoglu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merveAiseoglu&layout=compact&theme=radical&hide=css,html)](https://github.com/merveAiseoglu)
+
 </div>
 
 <div align="center">
@@ -53,7 +55,7 @@
   <a href="https://www.linkedin.com/in/merve-ai%C5%9Feo%C4%9Flu-6842b71b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:merve.aiseoglu7@gmail.com"> 
+  <a href="merve.aiseoglu7@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
