@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6F6&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Merve;Computer+Engineering+Student;Building+AI+%2B+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6F6&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Merve;Computer+Engineering+Graduate;Building+AI+%2B+Full-Stack+Apps" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Final Year Computer Engineering Student from Türkiye</h3>
+<h3 align="center">🚀 Computer Engineering Graduate from Türkiye</h3>
 
 ---
 
 <div align="center">
   
-  🔭 I’m currently working on **Find Path** (AI-Powered Career Coaching)
+  🔭 I’m currently working on **Su-AI** (Smart Water Quality Monitoring & Decision Support System)
   
-  🌱 I’m currently learning **Advanced AI Agents & Mobile Development**
+  🌱 I’m currently learning **Advanced AI Agents, FastAPI & Mobile Development**
   
-  🎓 I’m studying at **Harran University**
+  🎓 Graduate of **Harran University** (Computer Engineering)
   
-  💬 Ask me about **Angular, Node.js & Generative AI**
+  💬 Ask me about **React Native, Python, PostgreSQL & Generative AI Integration**
   
 </div>
 
@@ -22,12 +22,13 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </div>
 
